@@ -70,7 +70,7 @@ Below it is possible to find an example of the format of the results computed by
 
 After submitting your scores, to view the complete results, click on Detailed results on the CodaLab leaderboard. The leaderboard just shows the global EER (%).
 
-<img src="readme_figures/detailed.png">
+<img src="readme_figures/detailed.PNG">
 
 Each one of the reported metrics and curves are obtained using the functions that can be found in `utils.metrics`.
 
